@@ -1,4 +1,4 @@
-# baby_milestone_app
+![image](https://github.com/Lenien1999/Baby-Milestone-Tracker-App/assets/79860354/24219fdf-a1ee-419d-be8b-7f0c8be1876c)# baby_milestone_app
 
  
 # Design Decisions and Considerations
@@ -40,5 +40,6 @@ Enhanced Data Visualization
 - Consider integrating features that allow parents to engage with other users, share experiences, or access expert advice and resources related to child development.
 
 -A reminder 
+![image](https://github.com/Lenien1999/Baby-Milestone-Tracker-App/assets/79860354/fd3c6382-2983-485d-ba21-1398f99bc3d7)
 
  
