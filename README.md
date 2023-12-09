@@ -14,7 +14,8 @@ The app's design and features were crafted with a user-centric approach, ensurin
 ### Onboarding and User Guidance
 - The onboarding screens were created to introduce users to the app's key features and functionalities, guiding them through the initial setup process.
 - Visual cues, tooltips, and instructional prompts were incorporated to help users understand how to log milestones, track progress, and manage profiles effectively.
-
+### User
+User can edit their data on the app
 ## Milestone Tracking and Categorization
 
 ### Categorized Milestones
